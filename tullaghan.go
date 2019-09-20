@@ -13,5 +13,5 @@ func ToThePub() {
 }
 
 func tullaghan() {
-	fmt.Println("I'm from tullaghan")
+	fmt.Println("I'm from tullaghan - patch 4")
 }
